@@ -1,0 +1,2 @@
+# Fahrenheit-to-Celsius
+แปลงอุณหภูมิ
